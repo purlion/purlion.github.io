@@ -1,5 +1,3 @@
 $(document).ready(function() {
-  $('body')
-  .css('display', 'none')
-  .fadeIn(1250);
+  $('body').css('display', 'none').fadeIn(2500);
 });
